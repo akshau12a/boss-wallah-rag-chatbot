@@ -12,9 +12,6 @@ It uses a curated dataset of **100 courses** and provides ChatGPT-like conversat
 - **Multi-language support** → Answers consider course availability in:
   - Hindi, Kannada, Malayalam, Tamil, Telugu, English
 - **Natural conversational style** → Responses are summarized for readability.
-- **Bonus category support**:
-  - Dairy farm queries (e.g., *“How many cows are needed to start a dairy farm?”*).
-  - Nearby seed store lookup near **Whitefield, Bangalore** (via Google Places API or OpenStreetMap).
 - **Demo prompts & chat history** → Sidebar includes sample prompts.
 - **Robust fallback** → If query isn’t found, informative messages appear in the **user’s detected language**.
 
@@ -46,7 +43,7 @@ cd boss-wallah-rag-chatbot
 ## Create a virtual environment & install dependencies
 
 python3 -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 ## Configure environment variables
