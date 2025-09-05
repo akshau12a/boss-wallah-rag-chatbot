@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+
+# Python test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and runtime files
+*.log
+*.pid
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables file
+.env
+
+# Python packaging
+pip-wheel-metadata/
+
+# Misc
+__pypackages__/
