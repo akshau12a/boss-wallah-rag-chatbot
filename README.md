@@ -38,7 +38,7 @@ boss-wallah-rag-chatbot/
 
 ##  Setup Instructions
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 ```bash
 git clone <repo-url>
 cd boss-wallah-rag-chatbot
