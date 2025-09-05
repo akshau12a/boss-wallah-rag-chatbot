@@ -18,6 +18,7 @@ It uses a curated dataset of **100 courses** and provides ChatGPT-like conversat
 ---
 
 ##  Project Structure
+```bash
 boss-wallah-rag-chatbot/
 ├─ app.py # Main Streamlit app (UI + logic)
 ├─ requirements.txt # Dependencies
@@ -29,7 +30,7 @@ boss-wallah-rag-chatbot/
 │ ├─ utils.py # Language detection & helpers
 │ └─ agent.py # External agent for store lookup
 ├─ README.md # Documentation
-
+```
 
 ---
 
